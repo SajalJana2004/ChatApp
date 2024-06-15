@@ -1,4 +1,4 @@
-package com.example.di
+package com.example.chatapp.di
 
 import dagger.Module
 import dagger.Provides
